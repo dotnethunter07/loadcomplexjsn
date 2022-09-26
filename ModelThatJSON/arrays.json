@@ -1,0 +1,219 @@
+﻿{
+  "cars": [
+            {
+              "brand": "Toyo",
+              "models": [
+                            {
+                              "model": "car_model_1",
+                              "basePrice": 18000,
+                              "colors": 
+                                      [
+                                        "red",
+                                        "white",
+                                        "blue"
+                                      ]
+                            },
+                            {
+                              "model": "car_model_2",
+                              "colors": 
+                                      [
+                                        "red",
+                                        "white",
+                                        "blue",
+                                        "gray",
+                                        "sky"
+                                      ]
+                            },
+                            {
+                              "model": "car_model_3",
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue",
+                                      "green"
+                                    ]
+                            }
+                        ]
+            },
+            {
+                "brand": "Hoyo",
+                "models": [
+                            {
+                              "model": "car_model_hoy_1",
+                              "basePrice": 18000,
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue"
+                                    ]
+                            },
+                            {
+                              "model": "car_model_hoy_2",
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue",
+                                      "yellow",
+                                      "orange"
+                                    ]
+                            },
+                            {
+                              "model": "car_model_hoy_3",
+                              "basePrice": 32000,
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue",
+                                      "orange",
+                                      "brown",
+                                      "yellow",
+                                      "purple"
+                                    ]
+                            },
+                            {
+                              "model": "car_model_hoy_4",
+                              "basePrice": 34500,
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue",
+                                      "orange",
+                                      "brown"
+                                    ]
+                            },
+                            {
+                              "model": "car_model_hoy_5",
+                              "basePrice": 37000,
+                              "colors": 
+                                    [
+                                      "red",
+                                      "white",
+                                      "blue",
+                                      "orange",
+                                      "brown"
+                                    ]
+                            },
+                            {
+                              "model": "car_model_hoy_6",
+                              "basePrice": 54000,
+                              "colors": 
+                                    [
+                                      "blue",
+                                      "orange",
+                                      "brown",
+                                      "white"
+                                    ]
+                            }
+                       ]
+            }
+  ],
+  "trucks": [
+    {
+      "brand": "Toyo",
+      "models": [
+        {
+          "model": "truck_model_1",
+          "basePrice": 18000,
+          "colors": [
+            "red",
+            "white",
+            "blue"
+          ]
+        },
+        {
+          "model": "truck_model_2",
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "gray",
+            "sky"
+          ]
+        },
+        {
+          "model": "truck_model_3",
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "green"
+          ]
+        }
+      ]
+    },
+    {
+      "brand": "Hoyo",
+      "models": [
+        {
+          "model": "truck_model_hoy_1",
+          "basePrice": 18000,
+          "colors": [
+            "red",
+            "white",
+            "blue"
+          ]
+        },
+        {
+          "model": "truck_model_hoy_2",
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "yellow",
+            "orange"
+          ]
+        },
+        {
+          "model": "truck_model_hoy_3",
+          "basePrice": 32000,
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "orange",
+            "brown",
+            "yellow",
+            "purple"
+          ]
+        },
+        {
+          "model": "truck_model_hoy_4",
+          "basePrice": 34500,
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "orange",
+            "brown"
+          ]
+        },
+        {
+          "model": "truck_model_hoy_5",
+          "basePrice": 37000,
+          "colors": [
+            "red",
+            "white",
+            "blue",
+            "orange",
+            "brown"
+          ]
+        },
+        {
+          "model": "truck_model_hoy_6",
+          "basePrice": 54000,
+          "colors": [
+            "blue",
+            "orange",
+            "brown",
+            "white"
+          ]
+        }
+      ]
+    }
+  ]
+}

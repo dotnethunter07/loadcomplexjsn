@@ -1,0 +1,35 @@
+﻿{
+  "cars": [
+    {
+      "model": "Toyota",
+      "color": "black",
+      "pricemin": 1000,
+      "pricemax": 5000
+    },
+    {
+      "model": "Honda",
+      "color": "white",
+      "pricemin": 6000,
+      "pricemax": 10000
+    }
+  ],
+  "price": [
+    {
+      "color": "black",
+      "price": 2000
+    },
+    {
+      "color": "white",
+      "price": 6000
+    },
+    {
+      "color": "black",
+      "price": 7000
+    },
+    {
+      "color": "white",
+      "price": 5000
+    }
+
+  ]
+}

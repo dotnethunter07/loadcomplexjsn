@@ -1,0 +1,10 @@
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\bin\Debug\ModelThatJSON.exe.config
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\bin\Debug\ModelThatJSON.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\bin\Debug\ModelThatJSON.pdb
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\obj\Debug\ModelThatJSON.csproj.CoreCompileInputs.cache
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\obj\Debug\ModelThatJSON.csproj.CopyComplete
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\obj\Debug\ModelThatJSON.exe
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\obj\Debug\ModelThatJSON.pdb
+C:\Users\scottj.SCOTTWIN10-2\source\repos\ModelThatJSON\ModelThatJSON\obj\Debug\ModelThatJSON.csproj.AssemblyReference.cache
